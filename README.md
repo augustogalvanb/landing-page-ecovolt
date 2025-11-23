@@ -6,9 +6,9 @@
 
 ## Descripción del Proyecto
 
-Landing page promocional desarrollada para **EcoVolt Energy**, una empresa ficticia de energía solar residencial. El proyecto forma parte de mi portfolio profesional y demuestra habilidades en desarrollo web frontend con enfoque en diseño responsivo, animaciones y experiencia de usuario.
+Landing page promocional desarrollada para **EcoVolt Energy**, una empresa ficticia de energía solar y eólica. El proyecto forma parte de mi portfolio profesional y demuestra habilidades en desarrollo web frontend con enfoque en diseño responsivo, animaciones y experiencia de usuario.
 
-La página tiene como objetivo convertir visitantes en leads potenciales mediante un diseño atractivo, información clara sobre los beneficios de la energía solar, y múltiples llamados a la acción estratégicamente ubicados.
+La página tiene como objetivo convertir visitantes en leads potenciales mediante un diseño atractivo, información clara sobre los beneficios de la energía solar para uso residencial, y múltiples llamados a la acción estratégicamente ubicados.
 
 ## Características Principales
 
@@ -131,27 +131,3 @@ Manejo completo del ciclo de vida del formulario:
 - Feedback visual de éxito/error
 - Auto-reset tras envío exitoso
 - Timeout automático de mensajes
-
-## Mejoras Futuras
-
-- [ ] Implementar modo oscuro
-- [ ] Añadir galería de proyectos instalados
-- [ ] Integrar calculadora de ahorro energético
-- [ ] Agregar animaciones más complejas con GSAP
-- [ ] Implementar lazy loading para imágenes
-- [ ] Añadir tests unitarios con Jest
-- [ ] Optimizar performance con Lighthouse
-
-## Contacto
-
-Si tienes preguntas o sugerencias sobre este proyecto, no dudes en contactarme:
-
-- **GitHub:** [Tu usuario](https://github.com/tuusuario)
-- **LinkedIn:** [Tu perfil](https://linkedin.com/in/tuusuario)
-- **Email:** tu.email@ejemplo.com
-
----
-
-**Nota:** Este es un proyecto de portfolio. EcoVolt Energy es una empresa ficticia creada con fines demostrativos.
-
-⭐ Si te gustó este proyecto, no olvides darle una estrella en GitHub
